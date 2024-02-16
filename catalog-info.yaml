@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backtesting
+  annotations:
+    github.com/project-slug: Jokas377/backtesting
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
